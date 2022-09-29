@@ -7,6 +7,3 @@ Agile is a personal workflow web app designed to replace your agenda.
 <h2>Team members:</h2>
 <p>Prabhjot Singh -  Student at the University of Cincinnati</p>
 <p>Reese Rapin -  Student at the University of Cincinnati</p>
-
-
-hi
