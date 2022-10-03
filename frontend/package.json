@@ -1,0 +1,14 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Agile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "agfe"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/cli": "^14.2.4"
+  }
+}
