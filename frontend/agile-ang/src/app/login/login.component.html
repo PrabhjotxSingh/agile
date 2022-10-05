@@ -1,20 +1,18 @@
-<form action="/action_page.php">
-  <input
-    placeholder="Username"
-    class="inputw"
-    type="text"
-    id="fname"
-    name="fname"
-  />
-  <br /><br />
-  <input
-    placeholder="Password"
-    class="inputw"
-    type="password"
-    id="lname"
-    name="lname"
-  />
-  <br /><br />
-  <input class="btni" type="submit" value="Login" />
-  <input class="btn" type="submit" value="Create an account" />
-</form>
+<input
+  placeholder="Username"
+  class="inputw"
+  type="text"
+  id="fname"
+  name="fname"
+/>
+<br /><br />
+<input
+  placeholder="Password"
+  class="inputw"
+  type="password"
+  id="lname"
+  name="lname"
+/>
+<br /><br />
+<button class="btni">Login</button>
+<button (click)="switchToSignup()" class="btn">Create an account</button>
