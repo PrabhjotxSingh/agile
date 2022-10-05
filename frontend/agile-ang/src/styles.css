@@ -32,6 +32,10 @@ html {
   font-weight: 800;
 }
 
+.norm {
+  font-weight: 400;
+}
+
 .inputw {
   padding: 10px 10px;
   background-color: transparent;
