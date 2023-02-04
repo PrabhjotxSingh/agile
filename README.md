@@ -11,9 +11,10 @@
 <p>Reese Rapin -  Student at the University of Cincinnati</p>
 <p>Russell Toney - Student at the University of Cincinnati</p>
 
-<h2>Frontend - agile/</h2>
+<h2>Frontend - frontend/</h2>
 <p>Angular CLI: 14.2.2</p>
 <p>Node: 16.17.0</p>
 <p>Package Manager: npm 8.19.1</p>
 
-<h2>Backend - .NET</h2>
+<h2>Backend - backend/</h2>
+<p>.NET MAUI</p>
