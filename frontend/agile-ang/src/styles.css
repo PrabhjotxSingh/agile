@@ -52,7 +52,7 @@ html {
   padding: 10px 20px;
   background-color: transparent;
   color: white;
-  border: 2px solid #fff;
+  border: 2px solid #1a003f;
   text-transform: uppercase;
   cursor: pointer;
   text-decoration: none;
@@ -62,8 +62,8 @@ html {
   transition: all 0.3s ease-in;
 }
 .btn:hover {
-  background-color: rgba(255, 255, 255, 1);
-  color: black;
+  background-color: #1a003f;
+  color: white;
 }
 @media screen and (max-width: 1000px) {
   .btn {
@@ -75,9 +75,9 @@ html {
 .btni {
   margin-right: 10px;
   padding: 10px 20px;
-  background-color: white;
-  color: rgb(0, 0, 0);
-  border: 2px solid #fff;
+  background-color: #1a003f;
+  color: white;
+  border: 2px solid #1a003f;
   text-transform: uppercase;
   cursor: pointer;
   text-decoration: none;
@@ -111,6 +111,7 @@ html {
 .link:hover {
   cursor: pointer;
 }
+
 .footer {
   text-align: center;
   width: 100%;

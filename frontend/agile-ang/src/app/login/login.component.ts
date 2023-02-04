@@ -7,7 +7,7 @@ import { Component, EventEmitter, OnInit, Output } from '@angular/core';
 })
 export class LoginComponent implements OnInit {
   @Output()
-  formEmit: EventEmitter<any> = new EventEmitter();
+  formEmit: EventEmitter<boolean> = new EventEmitter();
 
   loginDisplay: boolean = true;
 
