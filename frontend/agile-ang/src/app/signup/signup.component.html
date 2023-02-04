@@ -1,3 +1,4 @@
+<p class="norm">No account, no problem! Fill in the required details below.</p>
 <input
   placeholder="First name"
   class="inputw"
@@ -10,32 +11,28 @@
   placeholder="Last name"
   class="inputw"
   type="text"
-  id="fname"
-  name="fname"
+  id="lname"
+  name="lname"
 />
 <br /><br />
-<input
-  placeholder="Email (this will be your username)"
-  class="inputw"
-  type="text"
-  id="fname"
-  name="fname"
-/>
+<input placeholder="Email" class="inputw" type="text" id="email" name="email" />
 <br /><br />
 <input
   placeholder="Password"
   class="inputw"
-  type="text"
-  id="fname"
-  name="fname"
+  type="password"
+  id="password"
+  name="password"
 />
 <br /><br />
 <input
   placeholder="Password again"
   class="inputw"
   type="password"
-  id="lname"
-  name="lname"
+  id="passwordagain"
+  name="passwordagain"
 />
 <br /><br />
+
+<button (click)="switchToLogin()" class="btn">I have an account</button>
 <button class="btni">Signup</button>

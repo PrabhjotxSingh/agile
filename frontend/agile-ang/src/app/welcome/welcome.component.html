@@ -4,13 +4,14 @@
 
 <div class="center">
   <h1 class="bold">{{ wmsg }} <span class="branding">Agile</span></h1>
-  <p class="norm">What are you waiting for? Let's get started with today.</p>
   <app-login
     (formEmit)="signupEvent($event)"
     *ngIf="loginDisplay == true"
   ></app-login>
-  <app-signup *ngIf="loginDisplay == false"></app-signup>
-  <p>{{ childData }}</p>
+  <app-signup
+    (formEmit)="signupEvent($event)"
+    *ngIf="loginDisplay == false"
+  ></app-signup>
 </div>
 
 <div class="footer">
