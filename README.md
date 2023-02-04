@@ -8,6 +8,7 @@ Agile is a personal workflow web app designed to replace your agenda.
 <p>Prabhjot Singh -  Student at the University of Cincinnati</p>
 <p>Minha Raza -  Student at the University of Cincinnati</p>
 <p>Reese Rapin -  Student at the University of Cincinnati</p>
+<p>Russell Toney - Student at the University of Cincinnati</p>
 
 <h2>Frontend - agile/</h2>
 <p>Angular CLI: 14.2.2</p>
