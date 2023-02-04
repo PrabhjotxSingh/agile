@@ -7,8 +7,5 @@
     "test": "agfe"
   },
   "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "@angular/cli": "^14.2.4"
-  }
+  "license": "MIT"
 }
