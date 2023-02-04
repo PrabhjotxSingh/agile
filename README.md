@@ -1,6 +1,6 @@
 <h1>Agile</h1>
-<p>A personal workflow web app designed to replace your agenda.</p>
-<img src="https://i.ibb.co/VC3Sh3z/agile-brand-window.png" height="200px" />
+<p>A personal workflow web app.</p>
+<img src="https://i.ibb.co/VC3Sh3z/agile-brand-window.png" height="400px" />
 
 <h2>What is Agile</h2>
 <p>Agile is a web app that replaces the new tab page on your browser. It displays your agenda and the websites you visit along with many personalized features.</p>
@@ -15,3 +15,5 @@
 <p>Angular CLI: 14.2.2</p>
 <p>Node: 16.17.0</p>
 <p>Package Manager: npm 8.19.1</p>
+
+<h2>Backend - .NET</h2>
